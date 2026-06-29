@@ -65,9 +65,6 @@ Boss(พี่ๆที่สอนน้องอยู่นั่นแหล
 
 Fork repository นี้ไปยัง account ของตัวเอง
 
-> ⚠ Repo ต้องเป็น Public
-> ไม่งั้น Boss จะมองไม่เห็นผลงานของเอ็ง
-
 ---
 
 # Step 2 — Clone Repository
